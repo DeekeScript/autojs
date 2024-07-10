@@ -5,6 +5,9 @@
 
 <img src="img/weixin.jpg" width='33%' />
 
+
+<strong>可以挂机的【抖音/小红书】自动化APP，能自动点赞、AI智能评论、带图评论、赞评论等，支持私有化部署、贴牌等；访问地址：<a href='https://github.com/DeekeScript/ad-dke' target='_blank'>Deeke</a></strong>
+
 ## 榜单如下（排名不分先后）
 
 ### Autojs
