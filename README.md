@@ -1,4 +1,4 @@
-# Android端模拟点击工具排行榜<img src='https://home.deeke.top/Index/githubStatistic?name=autojs' width=0 height=0 />
+# Android端模拟点击工具排行榜<img src='https://home.deeke.top/Index/githubStatistic?name=github-autojs' width=0 height=0 />
 收集全网最全的Android端自动化点击工具汇总（基于Android无障碍功能，需要root权限的不在此榜单中），并且分析了每种工具的特点，如果你有更好的，请投稿告诉我~
 
 如果对你有帮助，可以请我喝一杯咖啡~ 
