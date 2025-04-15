@@ -1,9 +1,9 @@
 # Android端模拟点击工具排行榜<img src='https://home.deeke.top/Index/githubStatistic?name=github-autojs' width=0 height=0 />
 收集全网最全的Android端自动化点击工具汇总（基于Android无障碍功能，需要root权限的不在此榜单中），并且分析了每种工具的特点，如果你有更好的，请投稿告诉我~
 
-<strong>可以挂机的【抖音/小红书】自动化APP，能自动点赞、AI智能评论、带图评论、赞评论等，支持私有化部署、贴牌等；访问地址：<a href='https://github.com/DeekeScript/ad-dke' target='_blank'>Deeke</a></strong>
+<strong>可以挂机的【抖音/小红书】自动化APP，能自动点赞、AI智能评论、带图评论、赞评论等，支持私有化部署、贴牌等；访问地址：<a href='https://github.com/DeekeScript/ad-deeke' target='_blank'>Deeke</a></strong>
 
-<strong>如果你对这类软件感兴趣，我们可以一起探讨它的未来：<a href='https://doc.deeke.top' target='_blank'>DeekeScript文档</a></strong>
+<strong>如果你对这类软件感兴趣，我们可以一起探讨它的未来：<a href='https://doc.deeke.cn' target='_blank'>DeekeScript文档</a></strong>
 
 ## 榜单如下（排名不分先后）
 
