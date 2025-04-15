@@ -23,9 +23,17 @@
 ### AirScript
 > 特点：Python3编程、支持Vscode等多种编辑器开发调试、官方提供完整的学习视频、支持企业服务（卡密系统,打包独立APP服务,云端控制）
 > 
-> 缺点：企业服务是额外收费的、软件按照设备并发量（同一时刻在线设备数）收费
+> 缺点：企业服务是额外收费的、软件按照设备并发量（同一时刻在线设备数）收费、打包收费
 > 
 > 文档地址：<a href='http://dev.airscript.cn/docs/android/intro' target='_blank'>AirScript官方教程</a>
+
+### DeekeScript
+> 特点：JavaScript编程、支持Vscode编辑器开发调试、最低支持Android8(api26)、一站式服务，支持卡密系统，打包独立APP服务，开发者只需要关注业务逻辑，无需关注ui设计、更新/设置/AI等功能全部集成、大幅提升产品开发速度
+> 
+> 缺点：只支持Android；打包是收费的（但不贵）
+> 
+> 文档地址：<a href='https://doc.deeke.cn' target='_blank'>DeekeScript官方教程</a>
+>
 
 
 ### EasyClick
@@ -54,13 +62,3 @@
 
 
 ***
-
-## 待上线榜单如下
-
-### DeekeScript
-> 特点：JavaScript编程、支持Vscode编辑器开发调试、最低支持Android7、一站式服务，支持卡密系统，打包独立APP服务，开发者只需要关注业务逻辑，无需关注ui设计、更新/设置/AI等功能全部集成、大幅提升产品开发速度
-> 
-> 缺点：企业服务是额外收费的、打包也是收费
-> 
-> 文档地址：<a href='https://doc.deeke.top' target='_blank'>DeekeScript官方教程</a>
-> 
